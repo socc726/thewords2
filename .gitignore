@@ -64,3 +64,4 @@ _babel.github.io
 *.tar
 *.zip
 *.gzip
+.editorconfig
